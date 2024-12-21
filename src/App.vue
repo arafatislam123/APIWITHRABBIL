@@ -13,7 +13,7 @@ async function CallApi() {
 </script>
 
 <template>
-  <table>
+  <table class="table table-striped">
     <thead>
     <tr>
       <th>Id</th>
